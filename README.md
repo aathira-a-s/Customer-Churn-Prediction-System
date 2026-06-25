@@ -6,9 +6,9 @@ A data science system designed to identify high-risk telecom subscribers and unc
 
 ## 📌 Project Architecture & Progress Tracking
 
-- [x] **Phase 1: Project Framing & Environment Setup** (Day 1)
-- [x] **Phase 2: Data Collection & Understanding** (Day 1)
-- [x] **Phase 3: Exploratory Data Analysis (EDA)** (Day 2) ◄ *Current Milestone*
+- [x] **Phase 1: Project Framing & Environment Setup**
+- [x] **Phase 2: Data Collection & Understanding**
+- [x] **Phase 3: Exploratory Data Analysis (EDA)**  ◄ *Current Milestone*
 - [ ] **Phase 4: Data Preprocessing & Pipeline Construction** (Upcoming)
 - [ ] **Phase 5: Feature Engineering & Selection**
 - [ ] **Phase 6: Model Training & Evaluation**
